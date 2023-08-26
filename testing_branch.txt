@@ -1,3 +1,0 @@
-This is created in master to test the git commands/git stash commands since the stash will help in the file changeS Save in the local repo with out syncing to branches
-
-thanks for the learning.
